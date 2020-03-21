@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pypackage',
-    version='0.1.0',
+    version='0.2.0',
     description='Example pip package hosted on Github.',
     url='git@github.com:awheelergs/pypackage.git',
     author='Aaron Wheeler',

@@ -10,6 +10,11 @@ Install a tagged version with
 
     pip install git+ssh://git@github.com/awheelergs/pypackage.git@0.1.0
 
+Test by
+
+     import pypackage
+     pypackage.test()
+
 Update any ``requirements.txt` from
 
     pypackage=0.1.0
